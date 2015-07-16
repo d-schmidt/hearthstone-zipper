@@ -1,6 +1,9 @@
 # hearthstone-zipper
 Small tool to resize, crop and zip all Hearthstone screenshots in the current directory.
 
+## Download
+The latest binary for Windows can be downloaded here: [releases](https://github.com/d-schmidt/hearthstone-zipper/releases)
+
 ## Usage
 Download the latest release and copy it into the same directory where your  
 `Hearthstone Screenshot 06-28-15 19.26.43.png`-files are.  
